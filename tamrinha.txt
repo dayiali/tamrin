@@ -1,0 +1,26 @@
+tamrin 1
+def name (fname,lname,age)
+        fname = "ali"
+	lname = "soltani"
+	age = "22"
+	print = fname ",",lname	",",age	
+tamrin 2
+
+def a (dv,dt,t,v,vr)
+	return (dv = dt = (-1/t) * (v-vt))
+
+tamrin 3
+
+def a (b,c)
+	return (b%c)
+
+tamrin 4
+
+import math as M  #ezafe kardan va ekhtesas name be ketabkhane math#
+	M.sqrt(9) #sedazadan metod sqrt az ketabkhane math va jazr giri adad9#
+
+tamrin 5
+
+tamrin 6 
+>>> "a" and 2 #barname khata midahad chon az yek jens nistand#
+>>> "a" or 2 #barname khata midahad chon az yek jens nistand#
